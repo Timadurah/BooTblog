@@ -1,4 +1,4 @@
-## DigiWord is A Single Author Blogging Platform Created with PHP &amp; Bootstrap.  
+## BooTblog is A Single Author Blogging Platform Created with PHP &amp; Bootstrap.  
 
 ### :pushpin: Features
 * Admin Panel
@@ -59,5 +59,3 @@ MIT
 
 **Free Software, Hell Yeah!**
 
-
-( readme updated on 22-07-2016 )
